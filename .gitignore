@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom
+
+.local
+.pylint.d
+.ssh
+.vscode-server
+.bash_history
+.bash_logout
+.bashrc
+.motd_shown
+.profile
+.sudo_as_admin_successful
+.wget-hsts
